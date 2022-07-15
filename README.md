@@ -1,6 +1,6 @@
 # festival des films
 Maquette statique et responsive de festival des films. Realisé pour le projet Open Classrooms.
-https://martalc.github.io/
+https://martalc.github.io/festival/index.html
 
 # Logo de festival
 
